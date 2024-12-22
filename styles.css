@@ -632,8 +632,8 @@
     }
     .cart-notification {
     position: fixed;
-    top: 40px;
-    right: 65px;
+    top: 55px;
+    right: 155px;
     background-color: #4CAF50;
     color: white;
     padding: 15px;
